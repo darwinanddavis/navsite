@@ -1,6 +1,6 @@
-baseURL = "https://example.org/"
+baseURL = "https://unruffled-ride-70deae.netlify.com"
 languageCode = "en-us"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "darwinanddavis"
 theme = "navigator-hugo"
 summaryLength = 10
 
@@ -173,7 +173,7 @@ DefaultContentLanguage = "en"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "about"
+        name    = "ABOUT ME"
         url     = "about"
         weight  = 2
     [[menu.nav]]
