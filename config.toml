@@ -173,7 +173,7 @@ DefaultContentLanguage = "en"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "ABOUT ME"
+        name    = "about"
         url     = "about"
         weight  = 2
     [[menu.nav]]
